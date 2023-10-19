@@ -1,3 +1,3 @@
 # My-Python
 
-For Learning
+For Learning and Testing Python code
