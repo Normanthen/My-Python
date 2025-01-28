@@ -1,3 +1,10 @@
-Johm
-Alice
-Bob
+The value of i is 1
+The value of i is 2
+The value of i is 3
+The value of i is 4
+The value of i is 5
+The valu of j is 1
+The valu of j is 2
+The valu of j is 3
+The valu of j is 4
+The valu of j is 5
